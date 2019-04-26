@@ -1,0 +1,19 @@
+{
+  "name": "root-detection",
+  "version": "0.1.2",
+  "description": "",
+  "cordova": {
+    "id": "cordova-plugin-rootdetection",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios"
+  ],
+  "author": "Aditya",
+  "license": "ISC"
+}
