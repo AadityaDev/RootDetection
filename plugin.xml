@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<plugin id="cordova-plugin-rootdetection" version="0.1.3" xmlns="http://apache.org/cordova/ns/plugins/1.0" xmlns:android="http://schemas.android.com/apk/res/android">
+<plugin id="cordova-plugin-rootdetection" version="0.1.5" xmlns="http://apache.org/cordova/ns/plugins/1.0" xmlns:android="http://schemas.android.com/apk/res/android">
     <name>RootDetection</name>
     <js-module name="RootDetection" src="www/RootDetection.js">
         <clobbers target="aditya.rootdetection.RootDetection" />
