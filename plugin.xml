@@ -5,7 +5,7 @@
         <clobbers target="aditya.rootdetection.RootDetection" />
     </js-module>
     <platform name="android">
-        <source-file src="src/android/RootDetection.java" target-dir="src/aditya/rootdetection" />
+        <source-file src="src/android/aditya/rootdetection/RootDetection.java" target-dir="src/aditya/rootdetection" />
         <config-file parent="/*" target="res/xml/config.xml">
         <feature name="RootDetection">
             <param name="android-package" value="aditya.rootdetection.RootDetection" />
