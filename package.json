@@ -1,6 +1,6 @@
 {
   "name": "root-detection",
-  "version": "0.1.3",
+  "version": "0.1.5",
   "description": "",
   "cordova": {
     "id": "cordova-plugin-rootdetection",
